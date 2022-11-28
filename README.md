@@ -48,4 +48,4 @@ The Full-Stack Developer designs and maintains websites and systems to serve a c
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=tokyonight)
 
 
-<img src="https://giphy.com/gifs/shecodesio-swipe-up-computer-congratulations-59vIsndYbwBnlbkN6X" alt="gif3"/>
+<img src="https://giphy.com/gifs/shecodesio-swipe-up-computer-congratulations-59vIsndYbwBnlbkN6X](https://media4.giphy.com/media/59vIsndYbwBnlbkN6X/200w.webp?cid=ecf05e47touwz1wy9a1kcd46wedwuke3vf9oun2x4ohibdbx&rid=200w.webp&ct=g" alt="gif3"/>
