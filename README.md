@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 Prince Singh 
 
 <!--
 **mrprincesingh/mrprincesingh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-The Full-Stack Developer designs and maintains websites and systems to serve a company's needs. develop these platforms to function independently Knowledge of multiple front-end languages and libraries (e.g. HTML/ CSS, JavaScript,REACT , REACT-REDUX) AND writing code which is optimized
+The Full-Stack Developer designs and maintains websites and systems to serve a company's needs. develop these platforms to function independently Knowledge of multiple front-end languages and libraries (e.g. HTML/ CSS, JavaScript,REACT , REACT-REDUX) AND writing code which is optimized.
  Learnt coding from Masai School(India's first Skill building School "Driven by Outcomes, Fuelled by Ambitions."),
 * 1200+ Hours Practical Coding
 * 100+ Hours Soft Skill Development
