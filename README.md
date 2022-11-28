@@ -27,9 +27,9 @@ The Full-Stack Developer designs and maintains websites and systems to serve a c
 * 100+ Hours Math & Logic
 * 10+ Projects & Hackathons
 
-<div>
+<div style ="align-items:center;">
 <img src="https://media0.giphy.com/media/i4MAH84pqe2m2aVojc/200w.webp?cid=ecf05e47l4dc9bprh98g2m0r9pbbtce74ynw64ze4ugp7q70&rid=200w.webp&ct=g" style="margin-right: 500px;" alt="gif2"/>
-</div>
+
   
 
 ## 🌐 Socials:
@@ -49,3 +49,4 @@ The Full-Stack Developer designs and maintains websites and systems to serve a c
 
 
  <img src="https://media4.giphy.com/media/59vIsndYbwBnlbkN6X/200w.webp?cid=ecf05e47touwz1wy9a1kcd46wedwuke3vf9oun2x4ohibdbx&rid=200w.webp&ct=g" alt="gif" style="margin-left: 200px; width:20%;"/>
+ </div>
