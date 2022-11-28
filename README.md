@@ -28,7 +28,7 @@ The Full-Stack Developer designs and maintains websites and systems to serve a c
 * 10+ Projects & Hackathons
 
 <div>
-<img src="https://media0.giphy.com/media/i4MAH84pqe2m2aVojc/200w.webp?cid=ecf05e47l4dc9bprh98g2m0r9pbbtce74ynw64ze4ugp7q70&rid=200w.webp&ct=g" style="margin-left: 500px; width:30%;" alt="gif2"/>
+<img src="https://media0.giphy.com/media/i4MAH84pqe2m2aVojc/200w.webp?cid=ecf05e47l4dc9bprh98g2m0r9pbbtce74ynw64ze4ugp7q70&rid=200w.webp&ct=g" style="margin-right: 500px;" alt="gif2"/>
 </div>
   
 
