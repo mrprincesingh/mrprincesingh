@@ -48,4 +48,4 @@ The Full-Stack Developer designs and maintains websites and systems to serve a c
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=tokyonight)
 
 
- <img src="https://media3.giphy.com/media/6tHy8UAbv3zgs/200.webp?cid=ecf05e47u1uyi6a3409v1uadp5yghhyt627bu7liqcl7wexm&rid=200.webp&ct=g" alt="gif" style="margin-left: 200px; width:20%;"/>
+ <img src="https://media4.giphy.com/media/59vIsndYbwBnlbkN6X/200w.webp?cid=ecf05e47touwz1wy9a1kcd46wedwuke3vf9oun2x4ohibdbx&rid=200w.webp&ct=g" alt="gif" style="margin-left: 200px; width:20%;"/>
