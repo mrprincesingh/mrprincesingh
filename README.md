@@ -14,7 +14,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-A passionate Full-stack developer from India with  ,Learnt coding from Masai School(India's first Skill building School "Driven by Outcomes, Fuelled by Ambitions.")
+The Full-Stack Developer designs and maintains websites and systems to serve a company's needs. develop these platforms to function independently Knowledge of multiple front-end languages and libraries (e.g. HTML/ CSS, JavaScript,REACT , REACT-REDUX) AND writing code which is optimized
+ Learnt coding from Masai School(India's first Skill building School "Driven by Outcomes, Fuelled by Ambitions."),
+* 1200+ Hours Practical Coding
+* 100+ Hours Soft Skill Development
+* 80 Mini Projects
+* 300 Hours Data Structures & Algorithms
+* 100+ Hours Math & Logic
+* 10+ Projects & Hackathons
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mrprincesinghhh) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prince-singh-a35963199/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/@Prince89905908) 
