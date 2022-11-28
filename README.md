@@ -20,7 +20,7 @@ The Full-Stack Developer designs and maintains websites and systems to serve a c
  Learnt coding from Masai School(India's first Skill building School "Driven by Outcomes, Fuelled by Ambitions.")
 * 1200+ Hours Practical Coding
 * 100+ Hours Soft Skill Development
-* 80 Mini Projects
+* 80+ Mini Projects
 * 300 Hours Data Structures & Algorithms
 * 100+ Hours Math & Logic
 * 10+ Projects & Hackathons
