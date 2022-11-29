@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 -->
 
 
-####  Hey there i'm Prince Singh
+<h1 align="center" dir="auto">Hey there  😄 I'm Prince Singh </h1>
 
 The Full-Stack Developer designs and maintains websites and systems to serve a company's needs. develop these platforms to function independently Knowledge of multiple front-end languages and libraries (e.g. HTML/ CSS, JavaScript,REACT , REACT-REDUX) AND writing code which is optimized.
 
