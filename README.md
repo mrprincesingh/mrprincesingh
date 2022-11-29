@@ -54,5 +54,5 @@ The Full-Stack Developer designs and maintains websites and systems to serve a c
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=mrprincesingh&theme=juicyfresh&no-frame=false&no-bg=false&margin-w=4)
 
-
+<hr>
 <h1 align="center" dir="auto">"You can get everything in life you want if you will just help enough other people get what they want.” </h1>
