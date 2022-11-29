@@ -64,9 +64,9 @@ The Full-Stack Developer designs and maintains websites and systems to serve a c
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=mrprincesingh&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 <br></br>
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shikhu51197&theme=2077" width="100%" />
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mrprincesingh&theme=2077" width="100%" />
 <hr/>
-<a href="https://github.com/shikhu51197/github-readme-activity-graph"><img alt="shikhu51197 Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=shikhu51197&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true&area_color=39d5e3&area=true" /></a>
+<a href="https://github.com/mrprincesingh/github-readme-activity-graph"><img alt="mrprincesingh Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=mrprincesingh&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true&area_color=39d5e3&area=true" /></a>
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=mrprincesingh&theme=juicyfresh&no-frame=false&no-bg=false&margin-w=4)
