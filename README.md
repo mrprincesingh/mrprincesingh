@@ -1,4 +1,4 @@
-<img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&amp;color=blue&amp;size=20&amp;lines=Hey!+It's+Prince+$ingh!;Full+Stack-Web+Developer...;" style="width: 100%;">
+<img src="https://readme-typing-svg.herokuapp.com?font=Serif+Daughter&amp;color=yellow&amp;size=20&amp;lines=Hey!+It's+Prince+Singh!;Full+Stack-Web+Developer...;" style="width: 100%;">
 <hr/>
 
 <div align="center" dir="auto">
