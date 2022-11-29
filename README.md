@@ -52,8 +52,10 @@ The Full-Stack Developer designs and maintains websites and systems to serve a c
 ![](https://github-readme-streak-stats.herokuapp.com/?user=mrprincesingh&theme=highcontrast&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=mrprincesingh&theme=highcontrast&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
-<div align="center" dir="auto" >
+
+  
 ### ✍️ Random Dev Quote
+<div align="center" dir="auto" >
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=tokyonight)
 </div>
 
