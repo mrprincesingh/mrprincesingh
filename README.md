@@ -54,8 +54,9 @@ The Full-Stack Developer designs and maintains websites and systems to serve a c
 
 
   
-### ✍️ Random Dev Quote
+
 <div align="center" dir="auto" >
+  <h1 align="center" dir="auto">### ✍️ Random Dev Quote </h1>
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=tokyonight)
 </div>
 
