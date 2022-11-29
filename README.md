@@ -1,10 +1,10 @@
 
 ####  Hey there i'm Prince Singh
 
-
 <div align="center" dir="auto">
-  <a target="_blank" rel="noopener noreferrer nofollow" ><img src="https://media0.giphy.com/media/i4MAH84pqe2m2aVojc/200w.webp?cid=ecf05e47l4dc9bprh98g2m0r9pbbtce74ynw64ze4ugp7q70&rid=200w.webp&ct=g" width="400" data-animated-image="" data-canonical-src="https://cdn.dribbble.com/users/4055494/screenshots/15215756/media/d2b66c4ca0192aa26d103448b3d1518b.gif" style="max-width: 100%;"></a>
+  <a target="_blank" rel="noopener noreferrer nofollow" ><img src="https://camo.githubusercontent.com/3997f3b27a68e19c31e2d1c378d77303735faa42e7d18a8018f7510d66aaa83e/68747470733a2f2f7777772e77696e677374656368736f6c7574696f6e732e636f6d2f77702d636f6e74656e742f75706c6f6164732f323032322f30332f66756c6c2d737461636b2d646576656c6f706d656e742e676966" width="600" data-animated-image="" data-canonical-src="https://cdn.dribbble.com/users/4055494/screenshots/15215756/media/d2b66c4ca0192aa26d103448b3d1518b.gif" style="max-width: 100%;"></a>
 </div>
+
 
 <!--
 **mrprincesingh/mrprincesingh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -31,10 +31,10 @@ The Full-Stack Developer designs and maintains websites and systems to serve a c
 * 100+ Hours Math & Logic
 * 10+ Projects & Hackathons
 
-<div align="center" dir="auto">
-  <a target="_blank" rel="noopener noreferrer nofollow" ><img src="https://camo.githubusercontent.com/3997f3b27a68e19c31e2d1c378d77303735faa42e7d18a8018f7510d66aaa83e/68747470733a2f2f7777772e77696e677374656368736f6c7574696f6e732e636f6d2f77702d636f6e74656e742f75706c6f6164732f323032322f30332f66756c6c2d737461636b2d646576656c6f706d656e742e676966" width="400" data-animated-image="" data-canonical-src="https://cdn.dribbble.com/users/4055494/screenshots/15215756/media/d2b66c4ca0192aa26d103448b3d1518b.gif" style="max-width: 100%;"></a>
-</div>
 
+<div align="center" dir="auto">
+  <a target="_blank" rel="noopener noreferrer nofollow" ><img src="https://media0.giphy.com/media/i4MAH84pqe2m2aVojc/200w.webp?cid=ecf05e47l4dc9bprh98g2m0r9pbbtce74ynw64ze4ugp7q70&rid=200w.webp&ct=g" width="400" data-animated-image="" data-canonical-src="https://cdn.dribbble.com/users/4055494/screenshots/15215756/media/d2b66c4ca0192aa26d103448b3d1518b.gif" style="max-width: 100%;"></a>
+</div>
 
 
   
