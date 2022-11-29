@@ -55,6 +55,9 @@ The Full-Stack Developer designs and maintains websites and systems to serve a c
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=tokyonight)
 
+<div align="center" dir="auto">
+  <a target="_blank" rel="noopener noreferrer nofollow" ><img src="https://media4.giphy.com/media/59vIsndYbwBnlbkN6X/200w.webp?cid=ecf05e47touwz1wy9a1kcd46wedwuke3vf9oun2x4ohibdbx&rid=200w.webp&ct=g" width="80%" data-animated-image="" data-canonical-src="https://cdn.dribbble.com/users/4055494/screenshots/15215756/media/d2b66c4ca0192aa26d103448b3d1518b.gif" style="max-width: 100%;"></a>
+</div>
 
- <img align="left" src="https://media4.giphy.com/media/59vIsndYbwBnlbkN6X/200w.webp?cid=ecf05e47touwz1wy9a1kcd46wedwuke3vf9oun2x4ohibdbx&rid=200w.webp&ct=g" alt="gif"  width:"20%"/>
- </div>
+
+
