@@ -52,13 +52,4 @@ The Full-Stack Developer designs and maintains websites and systems to serve a c
 ![](https://github-readme-streak-stats.herokuapp.com/?user=mrprincesingh&theme=highcontrast&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=mrprincesingh&theme=highcontrast&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
-
-  
-
-  <h1 align="center" dir="auto">### ✍️ Random Dev Quote </h1>
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=tokyonight)
-
-
-
-
-
+<h1 align="center" dir="auto">"You can get everything in life you want if you will just help enough other people get what they want.” </h1>
