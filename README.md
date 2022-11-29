@@ -56,3 +56,4 @@ The Full-Stack Developer designs and maintains websites and systems to serve a c
 
 <hr>
 <h1 align="center" dir="auto">"You can get everything in life you want if you will just help enough other people get what they want.” </h1>
+<hr>
