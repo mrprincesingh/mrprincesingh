@@ -44,6 +44,10 @@ The Full-Stack Developer designs and maintains websites and systems to serve a c
 - 💬 Ask me about **HTML,CSS,JS,REACT,REACT-REDUX**
 
 - 📫 How to reach me **Princeranu98@gmail.com**
+- 
+- 📄Want to know more about my Experience <a href="https://drive.google.com/file/d/11JZzxtl0CU3PL-Rx89glde13Cw_Q4VeQ/view?usp=sharing">Resume</a>
+- 
+- 👨‍💻 All of my projects are available at <a href ="https://mrprincesingh.github.io" >Portfolio</a>
 
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=100&color=FFA500&background=FFEF3000&width=439&height=80&lines=Learning+React.js;Learned+javascript;Learned+Html;Learned+css)](https://git.io/typing-svg)
