@@ -44,9 +44,7 @@ The Full-Stack Developer designs and maintains websites and systems to serve a c
 - 💬 Ask me about **HTML,CSS,JS,REACT,REACT-REDUX**
 
 - 📫 How to reach me **Princeranu98@gmail.com**
-- 
 - 📄Want to know more about my Experience <a href="https://drive.google.com/file/d/11JZzxtl0CU3PL-Rx89glde13Cw_Q4VeQ/view?usp=sharing">Resume</a>
-- 
 - 👨‍💻 All of my projects are available at <a href ="https://mrprincesingh.github.io" >Portfolio</a>
 
 
